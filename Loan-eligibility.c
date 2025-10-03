@@ -17,7 +17,6 @@ printf("enter your age below: ");
 scanf("%d", &age);
 printf("enter your annual income below: ");
 scanf("%f", &income);
-
 if (age < 20){
 printf("Unfortunately, we are unable to offer you a loan at this time.");
 }else{
